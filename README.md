@@ -3,7 +3,6 @@
 ## Overview
 This project focuses on analysing customer demographics, sales trends, and lead conversions at **2 Market**, a global supermarket chain. The goal is to identify customer behaviour patterns across different age groups and regions to optimise marketing strategies, improve sales performance, and enhance lead conversion rates.
 
----
 
 ## Business Background and Key Questions
 **2 Market** is a global supermarket offering a wide range of products to customers of all ages. Recent analysis identified that certain age groups, despite having high income levels, are not engaging with the products, resulting in lower sales and conversions. Additionally, sales in **Spain** outperform other regions, and understanding the reasons for this discrepancy is critical. 
@@ -13,7 +12,6 @@ This project focuses on analysing customer demographics, sales trends, and lead 
 - **Regional Sales Performance**: What drives the high sales and lead conversion success in **Spain** compared to other regions?
 - **Lead Conversion Analysis**: How can lead conversion rates be improved for low-performing age groups?
 
----
 
 ## Data Cleaning and Preparation
 
@@ -28,7 +26,6 @@ This project focuses on analysing customer demographics, sales trends, and lead 
    - Initially, no duplicates were found based on columns like **ID**, **Year_Birth**, and **Income**.
    - Further analysis revealed **201 duplicates** when the **ID** column was excluded, and these were removed.
 
----
 
 ## Data Analysis Approach
 
@@ -48,7 +45,6 @@ This project focuses on analysing customer demographics, sales trends, and lead 
 3. **Regional Sales Performance**:
    - SQL was used to aggregate **total sales** by country, showing **Spain** as the top performer in sales and lead conversions, followed by **South Africa** and **Canada**.
 
----
 
 ## Key Insights and Recommendation Summary
 
