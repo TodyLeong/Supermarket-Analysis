@@ -56,7 +56,7 @@ This project focuses on analysing customer demographics, sales trends, and lead 
 1. **Spending vs Income Discrepancies**:
    - The **20-29** and **80-89** age groups exhibit the **highest income** but have the **lowest spending**. This discrepancy suggests inefficiencies in targeting these demographics.
   
- ![Spendingg vs Income](Picture1.png)
+ ![Spendingg vs Income](figure1.png)
    
 2. **Lead Conversion Challenges**:
    - The same **20-29** and **80-89** age groups have the **lowest lead conversion rates** despite their high income, indicating that current marketing strategies are ineffective for these groups.
